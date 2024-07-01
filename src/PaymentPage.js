@@ -1,6 +1,6 @@
 import React from "react";
 import "./PaymentPage.css";
-import { CartItems, ConditionalNavLink, TotalAmt } from "./App";
+import { CartItems, TotalAmt } from "./App";
 
 const PaymentPage = () => {
   return (
